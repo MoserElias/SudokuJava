@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67641b3c-1133-463d-9ee4-a7cd8d4260cf" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/sudoku/SudokuApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/GameState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/Messages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/constants/Rows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/IStorage.java" afterDir="false" />
+    <list default="true" id="67641b3c-1133-463d-9ee4-a7cd8d4260cf" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/IUserInterfaceContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/SudokuTextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sudoku/userinterface/UserInterfaceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sudoku/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sudoku/problemdomain/SudokuGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/problemdomain/SudokuGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SudokuGame_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SudokuGame_Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sudoku/SudokuApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sudoku/SudokuApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +44,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Elias/Development/javafx-sdk-19.0.2.1/lib",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677829049631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update">
+      <created>1677830113529</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677830113529</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
